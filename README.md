@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <title>Hello Strapdown</title>
-<xmp theme="Cyborg" style="display:none;">
+<xmp theme="Cyborg" style="">
   
 # liuwilliamBUPT.github.io
 
