@@ -7,3 +7,4 @@
 * [杯具](https://blog.tongyifan.me/)
 * [八蠢](https://www.issacc.top/)  
 * [知津](https://jocket.top/)
+* [末末](https://blog.weimo.info/)
