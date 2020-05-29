@@ -10,3 +10,4 @@
 * [末末](https://blog.weimo.info/)
 * [苏沫](https://git.io/sumous)
 * [傲娇](https://ajycc20.top/)
+* [Ferry](https://ferryvan.github.io/)
