@@ -12,3 +12,5 @@
 * [傲娇](https://ajycc20.top/)
 * [Ferry](https://ferryvan.github.io/)
 * [NEXT](https://grains.gq/)
+* [cfandora](https://blog.cfandora.com)
+* [GE8001](https://gmm.im)
