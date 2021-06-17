@@ -14,3 +14,4 @@
 * [NEXT](https://grains.gq/)
 * [cfandora](https://blog.cfandora.com)
 * [GE8001](https://gmm.im)
+* [博客](https://bupt.dev)
